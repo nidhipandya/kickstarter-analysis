@@ -43,6 +43,7 @@ As shown in the **Theater_Outcomes_vs_Launch.png**, There is an increase in succ
 As shown in the **Outcomes_vs_Goals.png** chart, the chances of having a successful show decreases as the fundraising goal increases.  However, in the 35000-45000 range the success rate goes up but at that goal there seems to be a risk due to uncertainty due to the imediate decrease of sucessfull shows within the next range.
 
 - What are some limitations of this dataset?
+
 Some limitations to this data is the inclusion of unnecessary data such as currency and show description. since we are only calculating successes, failiures, and cancellations, knowing which currency is being used is not relevant to our conclusions. The staff pick column was also not needed since it has no effect on the outcome of the shows.
 
 - What are some other possible tables and/or graphs that we could create?
