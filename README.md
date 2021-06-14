@@ -36,11 +36,11 @@ There were no difficulties encountered during the analysis.
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-As shown in the **Theater_Outcomes_vs_Launch.png**, There is an increase in successful shows from January to May with May having the highest number of successful shows.  After May the trend of successful shows decreases to the end of the year. The highest number of successful shows happen in the summer months. There is no clear trend seen for failed and cancelled plays from the chart. 
+As shown in the [**Theater_Outcomes_vs_Launch.png**](https://github.com/nidhipandya/kickstarter-analysis/blob/main/resourses/Theater_Outcomes_vs_Launch.png), There is an increase in successful shows from January to May with May having the highest number of successful shows.  After May the trend of successful shows decreases to the end of the year. The highest number of successful shows happen in the summer months. There is no clear trend seen for failed and cancelled plays from the chart. 
 
 - What can you conclude about the Outcomes based on Goals?
 
-As shown in the **Outcomes_vs_Goals.png** chart, the chances of having a successful show decreases as the fundraising goal increases.  However, in the 35000-45000 range the success rate goes up but at that goal there seems to be a risk due to uncertainty due to the imediate decrease of sucessfull shows within the next range.
+As shown in the [**Outcomes_vs_Goals.png**](https://github.com/nidhipandya/kickstarter-analysis/blob/main/resourses/Outcomes_vs_Goals.png) chart, the chances of having a successful show decreases as the fundraising goal increases.  However, in the 35000-45000 range the success rate goes up but at that goal there seems to be a risk due to uncertainty due to the imediate decrease of sucessfull shows within the next range.
 
 - What are some limitations of this dataset?
 
